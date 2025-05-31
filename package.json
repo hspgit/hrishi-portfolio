@@ -1,0 +1,9 @@
+{
+  "name": "hrishi-portfolio",
+  "scripts": {
+    "start": "http-server "
+  },
+  "dependencies": {
+    "http-server": "*"
+  }
+}
